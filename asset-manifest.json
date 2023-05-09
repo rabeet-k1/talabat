@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/talabat/static/css/main.e6c13ad2.css",
+    "main.js": "/talabat/static/js/main.7ade388a.js",
+    "static/js/787.8662d591.chunk.js": "/talabat/static/js/787.8662d591.chunk.js",
+    "static/media/food-img.jpg": "/talabat/static/media/food-img.fe21695a2a20e698b3c2.jpg",
+    "static/media/logo.png": "/talabat/static/media/logo.41935dad98425f843a5f.png",
+    "index.html": "/talabat/index.html",
+    "main.e6c13ad2.css.map": "/talabat/static/css/main.e6c13ad2.css.map",
+    "main.7ade388a.js.map": "/talabat/static/js/main.7ade388a.js.map",
+    "787.8662d591.chunk.js.map": "/talabat/static/js/787.8662d591.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7ade388a.js"
+  ]
+}
